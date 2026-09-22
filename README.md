@@ -2,7 +2,7 @@ My Muffin Stash
 
 A personal budget tracker that runs entirely in your browser - no account, no server, no data leaving your device.
 
-
+[Open the live app](https://merc-apps.github.io/My-Muffin-Stash/) 
 
 Features
 
